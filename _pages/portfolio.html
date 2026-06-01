@@ -1,14 +1,15 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Research Projects"
+permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
+These projects reflect my work on efficient generative modeling, multimodal controlled generation, and production-oriented AI systems for image and sound.
 
-{% for post in site.portfolio %}
+{% assign research_projects = site.portfolio | sort: "date" | reverse %}
+{% for post in research_projects %}
   {% include archive-single.html %}
 {% endfor %}
-

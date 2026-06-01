@@ -1,4 +1,3 @@
-```markdown
 ---
 permalink: /
 title: "Mélodie Desbos"
@@ -8,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Mélodie Desbos
-
-**AI Researcher | Generative AI, Diffusion Models, Multimodal Generation**
+*AI Researcher | Generative AI, Diffusion Models, Multimodal Generation*
 
 I am an AI researcher and incoming Ph.D. student at ÉTS Montréal, affiliated with LIVIA and ILLS under the supervision of Professor Mohammadhadi Shateri and Professor Eric Granger. I am currently working with Ubisoft La Forge under the supervision of Dr. Hugo Seuté.
 
@@ -26,26 +23,36 @@ My research interests lie at the intersection of generative modeling, multimodal
 
 I work on multimodal generative AI for image and sound, including few-shot and few-step diffusion adaptation, controllable sound generation, reference-guided audio variation, and production-oriented evaluation of generative systems. More broadly, I am interested in optimization strategies that make generative models more efficient, reliable, and usable in real-world creative and scientific workflows.
 
+- Generative AI
+- Diffusion models
+- Score-based models
+- Flow matching and MeanFlow
+- Efficient generation and adaptation
+- Multimodal controlled generation
+- Sound generation and reference-guided audio variation
+- Production-oriented AI systems
+
 ## News
 
-- **2026** — Submitted *A Production-Oriented Framework for Evaluation of SFX Generation* to DAFx 2026. Preprint coming soon.
-- **2026** — *Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation* accepted to CVPR 2026 as co-first author.
-- **2026** — Working on generative audio and sound effect modeling with Ubisoft La Forge.
-- **2025** — Research Assistant at LIVIA, ÉTS Montréal.
-- **2025** — Started M.Sc.A. in Smart Systems Engineering at ÉTS Montréal.
+- **2026** -- Submitted *A Production-Oriented Framework for Evaluation of SFX Generation* to DAFx 2026. Preprint coming soon.
+- **2026** -- *Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation* accepted to CVPR 2026 as co-first author.
+- **2026** -- Working on generative audio and sound effect modeling with Ubisoft La Forge.
+- **2025** -- Research Assistant at LIVIA, ÉTS Montréal.
+- **2025** -- Started M.Sc.A. in Smart Systems Engineering at ÉTS Montréal.
 
 ## Selected Publications
 
-### Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation  
-**Yara Bahram\***, **Mélodie Desbos\***, Mohammadhadi Shateri, Eric Granger  
-**CVPR 2026**  
-A unified single-stage framework for jointly adapting and distilling diffusion models for few-step, few-shot image generation.  
-[CVPR Poster](https://cvpr.thecvf.com/virtual/2026/poster/38901)
+### [Uni-DAD: Unified Distillation and Adaptation of Diffusion Models for Few-step Few-shot Image Generation](/publication/2026-unidad/)
+**Yara Bahram\***, **Mélodie Desbos\***, Mohammadhadi Shateri, Eric Granger
+**CVPR 2026**
+A unified single-stage framework for jointly adapting and distilling diffusion models for few-step, few-shot image generation.
+[Publication page](/publication/2026-unidad/) | [CVPR Poster](https://cvpr.thecvf.com/virtual/2026/poster/38901)
 
-### A Production-Oriented Framework for Evaluation of SFX Generation  
-**Mélodie Desbos**, et al.  
-**Submitted to DAFx 2026 — Preprint coming soon**  
+### [A Production-Oriented Framework for Evaluation of SFX Generation](/publication/2026-dafx-sfx-evaluation/)
+**Mélodie Desbos**, et al.
+**Submitted to DAFx 2026 -- Preprint coming soon**
 A production-oriented evaluation framework for reference-guided sound effects generation, focusing on fidelity, identity preservation, diversity, controllability, temporal alignment, targeted editing, robustness, and efficiency.
+[Publication page](/publication/2026-dafx-sfx-evaluation/)
 
 ## Contact
 
@@ -62,4 +69,3 @@ A production-oriented evaluation framework for reference-guided sound effects ge
 Je suis chercheuse en intelligence artificielle et future doctorante à l’ÉTS Montréal, affiliée au LIVIA et à l’ILLS. Mes travaux portent sur l’IA générative, les modèles de diffusion, les modèles basés sur les scores et les flux, la génération multimodale contrôlée, ainsi que l’adaptation efficace de modèles génératifs pour des environnements de production.
 
 Je m’intéresse particulièrement aux systèmes génératifs capables de passer du prototype de recherche à des usages réels, notamment pour la génération d’images, la génération sonore, les effets sonores, et les workflows créatifs ou scientifiques.
-```
