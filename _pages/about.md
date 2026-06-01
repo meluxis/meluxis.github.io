@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-*AI Researcher | Generative AI, Diffusion Models, Multimodal Generation*
+**AI Researcher**  
+Generative AI, Diffusion Models, Multimodal Generation
 
 I am an AI researcher and incoming Ph.D. student at ÉTS Montréal, affiliated with LIVIA and ILLS under the supervision of Professor Mohammadhadi Shateri and Professor Eric Granger. I am currently working with Ubisoft La Forge under the supervision of Dr. Hugo Seuté.
 

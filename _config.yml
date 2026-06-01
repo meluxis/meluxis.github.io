@@ -13,10 +13,10 @@ title                    : "Mélodie Desbos | AI Researcher"
 title_separator          : "-"
 name                     : &name "Mélodie Desbos"
 description              : &description "AI researcher working on generative AI, diffusion models, multimodal controlled generation, and production-oriented image and sound generation."
-url                      : https://MelodieDesbos.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://meluxis.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MelodieDesbos/MelodieDesbos.github.io"
+repository               : "meluxis/meluxis.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   bio              : "AI researcher and incoming Ph.D. student at ÉTS Montréal, affiliated with LIVIA and ILLS. My research focuses on generative AI, diffusion and flow-based models, multimodal controlled generation, efficient adaptation, and production-oriented image and sound generation."
   location         : "Montréal, Canada"
   employer         : "LIVIA / ILLS, ÉTS Montréal"
-  uri              : "https://MelodieDesbos.github.io"
+  uri              : "https://meluxis.github.io"
   email            : "melodie.desbos@livia.etsmtl.ca"
 
   # Academic websites
@@ -149,7 +149,7 @@ social:
   type                   : "Person"
   name                   : "Mélodie Desbos"
   links:
-    - "https://MelodieDesbos.github.io"
+    - "https://meluxis.github.io"
     - "https://github.com/meluxis"
     - "https://ca.linkedin.com/in/m%C3%A9lodie-desbos"
     - "https://scholar.google.com/citations?user=sANOdsQAAAAJ&hl=fr&oi=sra"
