@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Download my full CV as PDF](/files/CV_MelodieDesbos.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **Ph.D. Student in Computer Vision**, ÉTS Montréal, Canada, incoming Summer 2026.
+- **M.Sc.A. in Smart Systems Engineering**, ÉTS Montréal, Canada, 2025–2026.
+- **Master in General Engineering, specialization in AI**, ESME, Paris, France, 2020–2025.
+- **Exchange Program in Robotic Engineering**, HGU, Pohang, South Korea, Autumn 2023.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research and Work Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **AI Research — Generative Audio and Sound Effect Modeling**, Ubisoft La Forge, Montréal, Canada, 2026.
+- **Research Assistant**, LIVIA, ÉTS Montréal, Canada, 2025–present.
+- **Data Project Manager Intern**, Numberly, Paris, France, June–December 2024.
+- **Private Tutor in Mathematics and English**, Complétude, Lyon, France, 2022–2023.
+- **Junior Developer for an Automated Tower Culture**, Finansert, Lyon, France, 2021.
+
+## Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
+## Technical Skills
+
+- **Programming:** Python, SQL, C++, Bash, PowerShell.
+- **Machine Learning:** supervised and unsupervised learning, optimization, model training.
+- **Deep Learning:** transformers, attention, diffusion models, GANs, VAEs.
+- **Generative AI:** diffusion models, score-based models, flow-based models, text/image/audio generation.
+- **Tools:** PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib, GitHub, GitLab, VSCode.
+
+## Languages
+
+- French: Native.
+- English: Advanced, C1 IELTS.
+- Spanish: Conversational.
+- Korean: Beginner.
